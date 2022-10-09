@@ -1,37 +1,4 @@
 {
-  "products": [
-    {
-      "name": "Юра Мельник",
-      "size": "100:100",
-      "count": 3,
-      "imageURL": "sdgsdsdgdgsd",
-      "weight": 20,
-      "id": 1
-    },
-    {
-      "name": "Юра Мельник",
-      "size": "100:100",
-      "count": 4,
-      "imageURL": "sdgsdsdgdgsd",
-      "weight": 3,
-      "id": 2
-    },
-    {
-      "name": "vas",
-      "size": "100:100",
-      "count": 4,
-      "imageURL": "sdgsdsdgdgsd",
-      "weight": 20,
-      "id": 3,
-      "comments": [
-        {
-          "id": 3,
-          "productId": 3,
-          "description": "",
-          "date": "2022-10-09T08:57:22.097Z"
-        }
-      ]
-    }
-  ],
+  "products": [],
   "comments": []
 }

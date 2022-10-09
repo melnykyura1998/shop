@@ -24,6 +24,7 @@ const SingleProduct = () => {
         product = {
             ...product,
             comments: [{
+                ...product.comments,
                 id: product.id,
                 productId: product.id,
                 description: commentValue,
