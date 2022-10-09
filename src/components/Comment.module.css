@@ -1,0 +1,17 @@
+.comment{
+    background: #7c8178;
+    border-radius: 10px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    height: 30px;
+}
+.comment p {
+    margin: 10px;
+}
+.comment button{
+    background: #d92828;
+    border: none;
+
+}

@@ -1,0 +1,46 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    background-color: #398d2d;
+    width: 200px;
+    height: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.wrapper input{
+    color: black;
+    border-radius: 5px;
+    border: none;
+    height: 20px;
+
+}
+.wrapper label{
+    width: 120px;
+}
+.button{
+    background-color:#f8f8dd;
+    border: none;
+    color: #398d2d;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.buttonClose{
+    background-color: #4f4b4b;
+    border: none;
+    color: #f8f8dd;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.buttonAdd{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #398d2d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    border: none;
+}
